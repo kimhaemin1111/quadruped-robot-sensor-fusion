@@ -154,6 +154,13 @@
 ROS2 Jazzy 환경을 설치하고 정상 동작 여부를 확인한 화면입니다.
 
 ![ros2](ros2_setup.png)
+
+
+### 📡 ROS2 송수신 테스트
+
+publisher와 subscriber 노드를 실행하여 메시지 송수신이 정상적으로 이루어지는지 확인하였습니다.
+
+![ros2_test](ros2_test.png)
   
 
 ## 📸 하드웨어 구성
